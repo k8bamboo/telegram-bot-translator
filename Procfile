@@ -1,1 +1,1 @@
-bot: java -jar build/libs/tg-bot-1.0-all.jar
+bot: java -jar build/libs/tg-bot-all-1.0.jar
